@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testbank/static/css/main.6756baed.css",
+    "main.js": "/testbank/static/js/main.b2e76660.js",
+    "static/media/badbankbackground.jpg": "/testbank/static/media/badbankbackground.32dc149a70f19707c96f.jpg",
+    "index.html": "/testbank/index.html",
+    "main.6756baed.css.map": "/testbank/static/css/main.6756baed.css.map",
+    "main.b2e76660.js.map": "/testbank/static/js/main.b2e76660.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6756baed.css",
+    "static/js/main.b2e76660.js"
+  ]
+}
